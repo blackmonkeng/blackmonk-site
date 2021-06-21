@@ -37,6 +37,6 @@ Up to 3 pipes of different diameters can be handled in the calculation of the li
 
 <iframe src="http://blackmonk-dev-as.azurewebsites.net/linesizingcalc.aspx?Username=si" width="595 height="2300"></iframe>
                                                                                                                
-<iframe src="https://youtu.be/tDZZEaqQPNY" width="595 height="2300"></iframe>
+<iframe src="https://youtube.com/tDZZEaqQPNY" width="595 height="2300"></iframe>
                                                                                                                 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/enjhlnqaXOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
