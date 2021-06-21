@@ -35,7 +35,7 @@ Up to 3 pipes of different diameters can be handled in the calculation of the li
 
 # Calculator
 
-<iframe src="http://blackmonk-dev-as.azurewebsites.net/linesizingcalc.aspx" width="595" height="2300" ></iframe>
+! (http://blackmonk-dev-as.azurewebsites.net/linesizingcalc.aspx)
                                                                                                                
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
                                                                                                                 
