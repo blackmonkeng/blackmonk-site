@@ -1,2 +1,0 @@
-#Line Pressure Drop Calculator
-This calculator determines the pressure drop through a pipeline.  It is suitable for incompressible flow.  Incompressible flow refers to liquids in all cases and gases or vapours where the pressure drop is less than 10% of the upstream pressure. This calculator can also be used for gases or vapours where the pressure drop is up to 40% of the upstream pressure if the average fluid density is used.
